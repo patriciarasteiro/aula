@@ -1,0 +1,20 @@
+---
+title: "Untitled"
+output: github_document
+---
+
+# Apresentação do projeto
+
+Este é um projeto sobre ...
+
+
+## Como usar esse repositório
+
+```{r echo=TRUE, eval=TRUE}
+plot(rnorm(10), rnorm(10))
+
+```
+
+
+### Autores
+Patricia
